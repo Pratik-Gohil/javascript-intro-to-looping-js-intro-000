@@ -4,6 +4,12 @@ function forLoop(array) {
   }
   return array
 }
+function whileLoop() {
+  let = 0
+  while (i > 0) {
+    i
+  }
+}
 function doWhileLoop(num) {
   let i = 0
   do {
