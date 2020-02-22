@@ -4,3 +4,10 @@ function forLoop(array) {
   }
   return array
 }
+function doWhileLoop(num) {
+  let i = 0
+  do {
+    console.log("I run once regardless.")
+    i++
+  } while (i < num + 2)
+}
